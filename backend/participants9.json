@@ -1,0 +1,542 @@
+[
+  {
+    "socialMediaAccounts": {
+      "facebook": true,
+      "tiktok": false,
+      "instagram": true,
+      "linkedin": false,
+      "youtube": true
+    },
+    "firstPage": {
+      "representation": "Video Representation",
+      "alumni": "Αλέξανδρος Δημητρόπουλος"
+    },
+    "secondPage": {
+      "representation": "Blog Representation",
+      "alumni": "Δημοσθένης Παπαθανάσης"
+    },
+    "thirdPage": {
+      "representation": "Card Representation",
+      "alumni": "Αγγελική Μιχαηλίδου"
+    },
+    "fourthPage": {
+      "representation": "List Representation",
+      "alumni": "Παναγιώτα Ανδρέου"
+    },
+    "evaluationResponses": {
+      "scaleQuestions": {
+        "question4": "3",
+        "question5": "2",
+        "question6": "4",
+        "question7": "1",
+        "question8": "5",
+        "question9": "1",
+        "question10": "4",
+        "question11": "1",
+        "question12": "4",
+        "question13": "1"
+      },
+      "question1": "Video University",
+      "question2": "Video University",
+      "question3": ""
+    },
+    "_id": "6672a40fd9f50d2a767e1456",
+    "uuid": "152ce35f-aeb3-40ed-ab1e-401ab091cf8f",
+    "ageGroup": 24,
+    "genderIdentity": "Άνδρας",
+    "educationLevel": " Φοιτητής προπτυχιακού κύκλου σπουδών",
+    "marketingPreference": " Σύντομα videos ή reels",
+    "seenAlumniSite": "no",
+    "knowsPatrasAlumni": "no",
+    "visitedPatrasAlumni": "no",
+    "seekNextStepStories": "no",
+    "alumniStoriesImpact": "1",
+    "__v": 0
+  },
+  {
+    "socialMediaAccounts": {
+      "facebook": true,
+      "tiktok": true,
+      "instagram": true,
+      "linkedin": true,
+      "youtube": true
+    },
+    "firstPage": {
+      "representation": "Video Representation",
+      "alumni": "Παναγιώτα Ανδρέου"
+    },
+    "secondPage": {
+      "representation": "List Representation",
+      "alumni": "Δημήτριος Αθανασίου"
+    },
+    "thirdPage": {
+      "representation": "Card Representation",
+      "alumni": "Αγγελική Μιχαηλίδου"
+    },
+    "fourthPage": {
+      "representation": "Blog Representation",
+      "alumni": "Αλέξανδρος Δημητρόπουλος"
+    },
+    "evaluationResponses": {
+      "scaleQuestions": {
+        "question4": "3",
+        "question5": "1",
+        "question6": "5",
+        "question7": "1",
+        "question8": "4",
+        "question9": "1",
+        "question10": "5",
+        "question11": "1",
+        "question12": "4",
+        "question13": "1"
+      },
+      "question1": "Card University",
+      "question2": "Card University",
+      "question3": ""
+    },
+    "_id": "6672abb3d9f50d2a767e146e",
+    "uuid": "7ddc3f60-82bc-4a93-a439-0a6f1f49a65d",
+    "ageGroup": 24,
+    "genderIdentity": "Άνδρας",
+    "educationLevel": " Φοιτητής προπτυχιακού κύκλου σπουδών",
+    "marketingPreference": " Σύντομα videos ή reels",
+    "seenAlumniSite": "no",
+    "knowsPatrasAlumni": "yes",
+    "visitedPatrasAlumni": "no",
+    "seekNextStepStories": "no",
+    "alumniStoriesImpact": "2",
+    "__v": 0
+  },
+  {
+    "socialMediaAccounts": {
+      "facebook": true,
+      "tiktok": false,
+      "instagram": true,
+      "linkedin": true,
+      "youtube": false
+    },
+    "firstPage": {
+      "representation": "Video Representation",
+      "alumni": "Αγγελική Μιχαηλίδου"
+    },
+    "secondPage": {
+      "representation": "List Representation",
+      "alumni": "Παναγιώτα Ανδρέου"
+    },
+    "thirdPage": {
+      "representation": "Card Representation",
+      "alumni": "Νικόλαος Γεωργίου"
+    },
+    "fourthPage": {
+      "representation": "Blog Representation",
+      "alumni": "Δημήτρης Παππάς"
+    },
+    "evaluationResponses": {
+      "scaleQuestions": {
+        "question4": "4",
+        "question5": "1",
+        "question6": "5",
+        "question7": "1",
+        "question8": "5",
+        "question9": "1",
+        "question10": "5",
+        "question11": "1",
+        "question12": "5",
+        "question13": "1"
+      },
+      "question1": "Video University",
+      "question2": "Video University",
+      "question3": ""
+    },
+    "_id": "6672b478d9f50d2a767e147c",
+    "uuid": "319ac961-d5c1-43a7-8b0a-02ef2e88ad84",
+    "ageGroup": 31,
+    "genderIdentity": "Γυναίκα",
+    "educationLevel": " Απόφοιτος μεταπτυχιακού κύκλου σπουδών",
+    "marketingPreference": " Σύντομα videos ή reels",
+    "seenAlumniSite": "yes",
+    "knowsPatrasAlumni": "no",
+    "visitedPatrasAlumni": "no",
+    "seekNextStepStories": "no",
+    "alumniStoriesImpact": "3",
+    "__v": 0
+  },
+  {
+    "socialMediaAccounts": {
+      "facebook": false,
+      "tiktok": false,
+      "instagram": false,
+      "linkedin": true,
+      "youtube": true
+    },
+    "firstPage": {
+      "representation": "Video Representation",
+      "alumni": "Αλέξανδρος Δημητρόπουλος"
+    },
+    "secondPage": {
+      "representation": "Video Representation",
+      "alumni": "Παναγιώτα Ανδρέου"
+    },
+    "thirdPage": {
+      "representation": "Card Representation",
+      "alumni": "Αγγελική Μιχαηλίδου"
+    },
+    "fourthPage": {
+      "representation": "List Representation",
+      "alumni": "Δημήτρης Παππάς"
+    },
+    "evaluationResponses": {
+      "scaleQuestions": {
+        "question4": "4",
+        "question5": "3",
+        "question6": "3",
+        "question7": "2",
+        "question8": "3",
+        "question9": "2",
+        "question10": "4",
+        "question11": "2",
+        "question12": "4",
+        "question13": "1"
+      },
+      "question1": "Blog University",
+      "question2": "Blog University",
+      "question3": ""
+    },
+    "_id": "6672bb2fd9f50d2a767e148c",
+    "uuid": "1089f1cb-22f3-4db2-a595-15f14e5acb37",
+    "ageGroup": 31,
+    "genderIdentity": "Άνδρας",
+    "educationLevel": " Απόφοιτος μεταπτυχιακού κύκλου σπουδών",
+    "marketingPreference": " Σύντομα videos ή reels",
+    "seenAlumniSite": "no",
+    "knowsPatrasAlumni": "no",
+    "visitedPatrasAlumni": "no",
+    "seekNextStepStories": "yes",
+    "alumniStoriesImpact": "4",
+    "__v": 0
+  },
+  {
+    "socialMediaAccounts": {
+      "facebook": true,
+      "tiktok": false,
+      "instagram": true,
+      "linkedin": true,
+      "youtube": true
+    },
+    "firstPage": {
+      "representation": "Video Representation",
+      "alumni": "Δημήτριος Αθανασίου"
+    },
+    "secondPage": {
+      "representation": "Blog Representation",
+      "alumni": "Παναγιώτα Ανδρέου"
+    },
+    "thirdPage": {
+      "representation": "Card Representation",
+      "alumni": "Δημοσθένης Παπαθανάσης"
+    },
+    "fourthPage": {
+      "representation": "List Representation",
+      "alumni": "Δημήτρης Παππάς"
+    },
+    "evaluationResponses": {
+      "scaleQuestions": {
+        "question4": "3",
+        "question5": "2",
+        "question6": "4",
+        "question7": "1",
+        "question8": "4",
+        "question9": "1",
+        "question10": "5",
+        "question11": "2",
+        "question12": "4",
+        "question13": "1"
+      },
+      "question1": "Video University",
+      "question2": "Video University",
+      "question3": ""
+    },
+    "_id": "6673154a7c0ecc2cf7215895",
+    "uuid": "750a854e-bb05-4bd9-9336-82d800d0a92d",
+    "ageGroup": 24,
+    "genderIdentity": "Άνδρας",
+    "educationLevel": " Φοιτητής μεταπτυχιακού κύκλου σπουδών",
+    "marketingPreference": " Σύντομα videos ή reels",
+    "seenAlumniSite": "no",
+    "knowsPatrasAlumni": "yes",
+    "visitedPatrasAlumni": "no",
+    "seekNextStepStories": "yes",
+    "alumniStoriesImpact": "3",
+    "__v": 0
+  },
+  {
+    "socialMediaAccounts": {
+      "facebook": true,
+      "tiktok": false,
+      "instagram": true,
+      "linkedin": true,
+      "youtube": true
+    },
+    "firstPage": {
+      "representation": "Video Representation",
+      "alumni": "Δημήτριος Αθανασίου"
+    },
+    "secondPage": {
+      "representation": "Card Representation",
+      "alumni": "Παναγιώτα Ανδρέου"
+    },
+    "thirdPage": {
+      "representation": "Blog Representation",
+      "alumni": "Νικόλαος Γεωργίου"
+    },
+    "fourthPage": {
+      "representation": "List Representation",
+      "alumni": "Μαρία Αναστασίου"
+    },
+    "evaluationResponses": {
+      "scaleQuestions": {
+        "question4": "5",
+        "question5": "2",
+        "question6": "5",
+        "question7": "1",
+        "question8": "4",
+        "question9": "1",
+        "question10": "5",
+        "question11": "1",
+        "question12": "4",
+        "question13": "1"
+      },
+      "question1": "Video University",
+      "question2": "Blog University",
+      "question3": ""
+    },
+    "_id": "6673214a7c0ecc2cf72158a5",
+    "uuid": "e4c4fb97-c5e8-482a-99f4-f848a6e89d4f",
+    "ageGroup": 24,
+    "genderIdentity": "Άνδρας",
+    "educationLevel": " Απόφοιτος προπτυχιακού τίτλου σπουδών",
+    "marketingPreference": " Αρθρογραφία σχετικά με το προϊόν σε έγκυρα μέσα",
+    "seenAlumniSite": "no",
+    "knowsPatrasAlumni": "yes",
+    "visitedPatrasAlumni": "no",
+    "seekNextStepStories": "no",
+    "alumniStoriesImpact": "2",
+    "__v": 0
+  },
+  {
+    "socialMediaAccounts": {
+      "facebook": true,
+      "tiktok": false,
+      "instagram": false,
+      "linkedin": false,
+      "youtube": true
+    },
+    "firstPage": {
+      "representation": "Blog Representation",
+      "alumni": "Αγγελική Μιχαηλίδου"
+    },
+    "secondPage": {
+      "representation": "Card Representation",
+      "alumni": "Γιώργος Νικολάου"
+    },
+    "thirdPage": {
+      "representation": "Video Representation",
+      "alumni": "Δημήτρης Παππάς"
+    },
+    "fourthPage": {
+      "representation": "List Representation",
+      "alumni": "Παναγιώτα Ανδρέου"
+    },
+    "evaluationResponses": {
+      "scaleQuestions": {
+        "question4": "3",
+        "question5": "2",
+        "question6": "4",
+        "question7": "1",
+        "question8": "4",
+        "question9": "2",
+        "question10": "4",
+        "question11": "2",
+        "question12": "4",
+        "question13": "1"
+      },
+      "question1": "Blog University",
+      "question2": "Video University",
+      "question3": "Με την μορφή του βίντεο, ο Δημήτρης Γεωργίου καταφέρνει να μεταδώσει με αποτελεσματικό τρόπο τις εμπειρίες του από την ακαδημαϊκή του πορεία, καθώς και την χρησιμότητα τους στην εργασιακή του καθημερινότητα ως υπεύθυνος κυβερνοασφάλειας."
+    },
+    "_id": "667326247c0ecc2cf72158b5",
+    "uuid": "76c0d4b6-1e73-4561-b62b-b08f07248fb0",
+    "ageGroup": 24,
+    "genderIdentity": "Άνδρας",
+    "educationLevel": " Φοιτητής προπτυχιακού κύκλου σπουδών",
+    "marketingPreference": " Σύντομα videos ή reels",
+    "seenAlumniSite": "yes",
+    "knowsPatrasAlumni": "yes",
+    "visitedPatrasAlumni": "no",
+    "seekNextStepStories": "yes",
+    "alumniStoriesImpact": "4",
+    "__v": 0
+  },
+  {
+    "socialMediaAccounts": {
+      "facebook": false,
+      "tiktok": false,
+      "instagram": true,
+      "linkedin": false,
+      "youtube": false
+    },
+    "firstPage": {
+      "representation": "Video Representation",
+      "alumni": "Αγγελική Μιχαηλίδου"
+    },
+    "secondPage": {
+      "representation": "",
+      "alumni": ""
+    },
+    "thirdPage": {
+      "representation": "",
+      "alumni": ""
+    },
+    "fourthPage": {
+      "representation": "",
+      "alumni": ""
+    },
+    "evaluationResponses": {
+      "scaleQuestions": {
+        "question4": "",
+        "question5": "",
+        "question6": "",
+        "question7": "",
+        "question8": "",
+        "question9": "",
+        "question10": "",
+        "question11": "",
+        "question12": "",
+        "question13": ""
+      },
+      "question1": "",
+      "question2": "",
+      "question3": ""
+    },
+    "_id": "66732e9b7c0ecc2cf72158c9",
+    "uuid": "c9cce531-bf90-4e82-8bd4-2fb0909ac157",
+    "ageGroup": 24,
+    "genderIdentity": "Γυναίκα",
+    "educationLevel": " Φοιτητής μεταπτυχιακού κύκλου σπουδών",
+    "marketingPreference": " Εμφάνιση του προϊόντος σε ιστοσελίδες συγκριτικών αξιολογήσεων",
+    "seenAlumniSite": "yes",
+    "knowsPatrasAlumni": "yes",
+    "visitedPatrasAlumni": "yes",
+    "seekNextStepStories": "yes",
+    "alumniStoriesImpact": "3",
+    "__v": 0
+  },
+  {
+    "socialMediaAccounts": {
+      "facebook": false,
+      "tiktok": true,
+      "instagram": true,
+      "linkedin": true,
+      "youtube": false
+    },
+    "firstPage": {
+      "representation": "Video Representation",
+      "alumni": "Μαρία Αναστασίου"
+    },
+    "secondPage": {
+      "representation": "Blog Representation",
+      "alumni": "Δημήτριος Αθανασίου"
+    },
+    "thirdPage": {
+      "representation": "List Representation",
+      "alumni": "Δημήτρης Παππάς"
+    },
+    "fourthPage": {
+      "representation": "Card Representation",
+      "alumni": "Γιώργος Νικολάου"
+    },
+    "evaluationResponses": {
+      "scaleQuestions": {
+        "question4": "4",
+        "question5": "2",
+        "question6": "4",
+        "question7": "3",
+        "question8": "4",
+        "question9": "2",
+        "question10": "4",
+        "question11": "2",
+        "question12": "4",
+        "question13": "3"
+      },
+      "question1": "Video University",
+      "question2": "Video University",
+      "question3": ""
+    },
+    "_id": "66732f1c7c0ecc2cf72158d1",
+    "uuid": "4d6a26aa-f8fb-4c0a-8825-19ca698c2f8a",
+    "ageGroup": 18,
+    "genderIdentity": "Άλλο",
+    "educationLevel": " Φοιτητής προπτυχιακού κύκλου σπουδών",
+    "marketingPreference": " Αρθρογραφία σχετικά με το προϊόν σε έγκυρα μέσα",
+    "seenAlumniSite": "yes",
+    "knowsPatrasAlumni": "yes",
+    "visitedPatrasAlumni": "no",
+    "seekNextStepStories": "no",
+    "alumniStoriesImpact": "2",
+    "__v": 0
+  },
+  {
+    "socialMediaAccounts": {
+      "facebook": true,
+      "tiktok": false,
+      "instagram": true,
+      "linkedin": false,
+      "youtube": true
+    },
+    "firstPage": {
+      "representation": "Video Representation",
+      "alumni": "Αλέξανδρος Δημητρόπουλος"
+    },
+    "secondPage": {
+      "representation": "List Representation",
+      "alumni": "Γιώργος Δημητρίου"
+    },
+    "thirdPage": {
+      "representation": "Blog Representation",
+      "alumni": "Παναγιώτα Ανδρέου"
+    },
+    "fourthPage": {
+      "representation": "Card Representation",
+      "alumni": "Γιώργος Νικολάου"
+    },
+    "evaluationResponses": {
+      "scaleQuestions": {
+        "question4": "3",
+        "question5": "1",
+        "question6": "5",
+        "question7": "1",
+        "question8": "3",
+        "question9": "1",
+        "question10": "5",
+        "question11": "1",
+        "question12": "5",
+        "question13": "1"
+      },
+      "question1": "Video University",
+      "question2": "Blog University",
+      "question3": ""
+    },
+    "_id": "6673370d7c0ecc2cf72158e1",
+    "uuid": "35440a02-3372-4e03-8fbd-ba13b8427f20",
+    "ageGroup": 24,
+    "genderIdentity": "Άνδρας",
+    "educationLevel": " Απόφοιτος προπτυχιακού τίτλου σπουδών",
+    "marketingPreference": " Σύντομα videos ή reels",
+    "seenAlumniSite": "no",
+    "knowsPatrasAlumni": "yes",
+    "visitedPatrasAlumni": "yes",
+    "seekNextStepStories": "yes",
+    "alumniStoriesImpact": "3",
+    "__v": 0
+  }
+]
